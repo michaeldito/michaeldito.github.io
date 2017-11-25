@@ -32,7 +32,7 @@
     
     <url>
     
-      <loc>https://michaeldito.github.io/project/directory-entry/</loc>
+      <loc>https://michaeldito.github.io/project/load-balancer/</loc>
       <lastmod>2017-10-17T00:00:00+00:00</lastmod>
     </url>
     
@@ -41,7 +41,7 @@
     
     <url>
     
-      <loc>https://michaeldito.github.io/project/load-balancer/</loc>
+      <loc>https://michaeldito.github.io/project/directory-entry/</loc>
       <lastmod>2017-10-17T00:00:00+00:00</lastmod>
     </url>
     
@@ -69,6 +69,15 @@
     <url>
     
       <loc>https://michaeldito.github.io/project/maze-gui/</loc>
+      <lastmod>2017-10-17T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://michaeldito.github.io/project/modern-react-with-redux/</loc>
       <lastmod>2017-10-17T00:00:00+00:00</lastmod>
     </url>
     
@@ -105,6 +114,42 @@
     <url>
     
       <loc>https://michaeldito.github.io/project/sonoma-directory/</loc>
+      <lastmod>2017-10-17T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://michaeldito.github.io/project/complete-node-js-course/</loc>
+      <lastmod>2017-10-17T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://michaeldito.github.io/project/complete-web-developer/</loc>
+      <lastmod>2017-10-17T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://michaeldito.github.io/project/pro-mern-stack/</loc>
+      <lastmod>2017-10-17T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://michaeldito.github.io/project/python-mega-course/</loc>
       <lastmod>2017-10-17T00:00:00+00:00</lastmod>
     </url>
     
@@ -169,15 +214,6 @@
     
       <loc>https://michaeldito.github.io/talk/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://michaeldito.github.io/project/example-external-project/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -257,16 +293,6 @@
     
     <url>
     
-      <loc>https://michaeldito.github.io/tags/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://michaeldito.github.io/publication_types/1/</loc>
       <lastmod>2013-07-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -336,7 +362,27 @@
     
     <url>
     
+      <loc>https://michaeldito.github.io/tags/data-structures/</loc>
+      <lastmod>2017-10-17T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://michaeldito.github.io/tags/dynamodb/</loc>
+      <lastmod>2017-10-17T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://michaeldito.github.io/tags/express/</loc>
       <lastmod>2017-10-17T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -396,6 +442,16 @@
     
     <url>
     
+      <loc>https://michaeldito.github.io/tags/mern/</loc>
+      <lastmod>2017-10-17T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://michaeldito.github.io/tags/mfc/</loc>
       <lastmod>2017-10-17T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -408,6 +464,16 @@
     
       <loc>https://michaeldito.github.io/</loc>
       <lastmod>2017-10-15T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://michaeldito.github.io/tags/mongodb/</loc>
+      <lastmod>2017-10-17T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -486,8 +552,48 @@
     
     <url>
     
+      <loc>https://michaeldito.github.io/tags/react/</loc>
+      <lastmod>2017-10-17T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://michaeldito.github.io/tags/recursive-lists/</loc>
+      <lastmod>2017-10-17T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://michaeldito.github.io/tags/redux/</loc>
+      <lastmod>2017-10-17T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://michaeldito.github.io/tags/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://michaeldito.github.io/tags/web-development/</loc>
+      <lastmod>2017-10-17T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
