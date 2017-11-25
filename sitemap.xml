@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>https://michaeldito.github.io/project/fast-fourier-transform/</loc>
+      <lastmod>2017-11-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://michaeldito.github.io/project/active-v1/</loc>
       <lastmod>2017-10-17T00:00:00+00:00</lastmod>
     </url>
@@ -32,7 +41,7 @@
     
     <url>
     
-      <loc>https://michaeldito.github.io/project/load-balancer/</loc>
+      <loc>https://michaeldito.github.io/project/automate-scaling/</loc>
       <lastmod>2017-10-17T00:00:00+00:00</lastmod>
     </url>
     
@@ -513,7 +522,7 @@
     <url>
     
       <loc>https://michaeldito.github.io/project/</loc>
-      <lastmod>2017-10-17T00:00:00+00:00</lastmod>
+      <lastmod>2017-11-25T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -543,7 +552,7 @@
     <url>
     
       <loc>https://michaeldito.github.io/tags/python/</loc>
-      <lastmod>2017-10-17T00:00:00+00:00</lastmod>
+      <lastmod>2017-11-25T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
